@@ -1,29 +1,87 @@
 # karima-L-R-portfolio
-Business Intelligence Analyst
+## Business Intelligence Analyst
 
-## 📊 Tableaux de bord
-- Dashboard Veille (Power BI)
-- Dashboard Profil (Power BI)
+Bienvenue sur mon portfolio professionnel.  
+Il synthétise mes projets, mes livrables, mes tableaux de bord et les compétences développées tout au long de mon parcours Data Analyst.
 
+---
 
-## 📄 Livrables
-- Analyse des besoins métiers (PDF)
-- Cahier des charges (PDF)
-- Procédure de documentation (PDF)
+## Tableaux de bord (Power BI)
 
-## 📅 Diagramme de Gantt
-- Planning du projet portfolio
+### 1. Dashboard Veille
+Analyse de :
+- Méthodes & outils testés  
+- Temps d’apprentissage  
+- Intensité d’utilisation par projet  
+- Difficultés rencontrées  
+- Apports des méthodes  
+- Compétences techniques (Radar)
+- 
+### 2. Dashboard Profil
+Synthèse de :
+- Compétences techniques & soft skills  
+- Outils maîtrisés  
+- Timeline P1 → P11  
+- Livrables clés  
+- Matrice Projet × Compétences  
+- Posture consultante 
+---
+
+## Livrables (PDF)
+
+- Analyse des besoins métiers — AéroWorld  
+- Cahier des charges fonctionnel — Projet Portfolio  
+- Procédure de documentation — Création d’un graphique avancé Power BI  
+
+---
+
+## Diagramme de Gantt
+
+Planification complète du projet Portfolio :  
+- Livrables  
+- Dépendances  
+- Durées  
+- Organisation du travail
+
+---
 
 ## 🎥 Vidéo de formation
-- Lien Loom
+[Voir la vidéo](https://drive.google.com/file/d/1oOfIN7NhZRoYOznN0rqMPKS9sfU_yVqL/view?usp=share_link)
 
-## 🧠 Compétences
-- SQL, Power BI, Python, Excel
-- Documentation, Gestion de projet
-- Soft skills : communication, pédagogie, posture consultante
+---
 
-## 📚 Projets P1 → P11
-Synthèse des livrables, méthodes et difficultés rencontrées.
+## Compétences
+
+### Techniques
+- SQL — jointures, agrégations, performance  
+- Power BI — Modèle, DAX, dashboards  
+- Python — Pandas, analyse, visualisation  
+- Excel — TCD, formules avancées  
+- Tableau — Dataviz exploratoire  
+
+### Transverses
+- Documentation  
+- Gestion de projet  
+- Organisation  
+- Analyse exploratoire  
+
+### Soft Skills
+- Communication  
+- Pédagogie  
+- Esprit critique  
+- Posture consultante  
+- Vision métier  
+
+---
+
+## Projets P1 → P11
+
+Synthèse des livrables, méthodes, outils et difficultés rencontrées sur l’ensemble du parcours OpenClassrooms.
+
+---
 
 ## 🌐 Contact
-LinkedIn : (https://www.linkedin.com/in/karima-l-1b376224b/)
+
+- LinkedIn : [*(ton lien)*](https://www.linkedin.com/in/karima-l-1b376224b/)  
+
+Merci pour votre visite.
