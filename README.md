@@ -16,7 +16,7 @@ Analyse de :
 - Difficultés rencontrées  
 - Apports des méthodes  
 - Compétences techniques (Radar)
-- 
+  
 ### 2. Dashboard Profil
 Synthèse de :
 - Compétences techniques & soft skills  
