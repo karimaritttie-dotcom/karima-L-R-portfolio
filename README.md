@@ -29,9 +29,8 @@ Synthèse de :
 
 ## Livrables (PDF)
 
-- Analyse des besoins métiers — AéroWorld  
-- Cahier des charges fonctionnel — Projet Portfolio  
-- Procédure de documentation — Création d’un graphique avancé Power BI  
+- Analyse des besoins métiers — AéroWorld [Analyse](https://docs.google.com/document/d/1rdxKo32bPgN1lscL-PUtql1cun034gh1/edit?usp=sharing&ouid=109821949493072075256&rtpof=true&sd=true)
+- Cahier des charges fonctionnel : [Cahier des charges](https://docs.google.com/document/d/13kjg7UVTI2T9K7AnmZ3CC-3NnpIDxjuu/edit?usp=sharing&ouid=109821949493072075256&rtpof=true&sd=true)
 
 ---
 
