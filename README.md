@@ -45,9 +45,9 @@ Planification complète du projet Portfolio :
 
 ---
 
-## 🎥 Vidéo de formation
+## 🎥 Vidéo de formation et Dashbord
 [Voir la vidéo](https://drive.google.com/file/d/1oOfIN7NhZRoYOznN0rqMPKS9sfU_yVqL/view?usp=share_link)
-
+[Dashbord](https://drive.google.com/drive/folders/1tAHqEIpo61E-3eeaQ6-Qaz_FQrWOT_Hj?usp=sharing)
 ---
 
 ## Compétences
@@ -82,6 +82,6 @@ Synthèse des livrables, méthodes, outils et difficultés rencontrées sur l’
 
 ## 🌐 Contact
 
-- LinkedIn : [*(ton lien)*](https://www.linkedin.com/in/karima-l-1b376224b/)  
+- LinkedIn : [*(Mon lien)*](https://www.linkedin.com/in/karima-l-1b376224b/)  
 
 Merci pour votre visite.
